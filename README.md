@@ -1,10 +1,5 @@
-### Hi there 👋
+### Hello & Welcome! 
 
-<!--
-**jolly-io/jolly-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jolly Ogbolè
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on survival Analysis Research
-- 🌱 I’m currently learning API Deployment
-
+Here you'll find a collection of Data Science and Econ projects I've undertaken since 2017. Feedback is welcome.
