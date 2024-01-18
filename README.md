@@ -2,4 +2,5 @@
 
 My name is Jolly Ogbolè
 
-Here you'll find a collection of Data Science and Econ projects I've undertaken since 2017. Feedback is welcome.
+- I've been using python, R and SQL for about five years
+- I'm currently learning Survival Analysis
