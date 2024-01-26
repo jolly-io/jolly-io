@@ -2,5 +2,5 @@
 
 My name is Jolly Ogbolè
 
-- Ever since my first data science class (Data 8) in the Spring of 2017 at UC Berkeley, I've been using python, R and SQL to understand data and help organization make decisions.
+- Since my initial foray into data science with Data 8 at UC Berkeley in Spring 2017, I have been utilizing Python, R, and SQL to analyze data and assist organizations in making informed decisions.
 - Currently researching API Integration and Deployment
