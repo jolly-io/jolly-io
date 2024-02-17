@@ -6,4 +6,5 @@
 I'm Jolly Ogbolè
 
 - 🛠️ Since my initial introduction to data science with [Data 8](https://www.data8.org/) at UC Berkeley in the Spring of 2017, I have been utilizing `Python` `SQL` `R` & `AWS` to help organizations understand their data and impact business outcomes.
+- ⚡ I enjoy: reading, action & crime movies, running & lifting weights :)
 - 📖 Current Read: [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
