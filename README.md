@@ -4,7 +4,7 @@
 
 ### Data Ecosystem Research (Data Science, Engineering & Analytics) | Economics & Statistics | Decision Optimization Methods
 
-Hello, I'm Jolly
+Hello, I'm Jolly Ogbolè
 
 
 - 🛠️ Since my initial introduction to data science with [Data 8](https://www.data8.org/) at UC Berkeley in the Spring of 2017, I have been utilizing `Python` `SQL` `R` & `AWS` to help organizations understand their data and impact business outcomes.
